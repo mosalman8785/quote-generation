@@ -1,0 +1,21 @@
+.quote{
+    font-weight: 900;
+    font-size: 4.5rem;
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+p{
+    font-size: 2.2rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+.buttun-quote{
+    background-color: blue;
+    color: white;
+    width: 250px;
+    height: 75px;
+}
+.buttun-quote:hover{
+    background-color: RGB(0, 128, 0);
+   
+    
+}
